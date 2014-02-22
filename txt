@@ -1,0 +1,18 @@
+Mid-lesson breather
+
+You've done an awesome job! 
+Here's a quick summary of things we've learned:
+
+HTML is used to give websites structure.
+We open HTML files using a browser, and the browser renders (shows us) the file.
+HTML files have a <head> and a <body> (just like you!)
+In the head, we have the <title> tags, and we use these to specify the webpage's name.
+How to make headings and paragraphs.
+
+Instructions
+Add a title between the <title> tags.
+Create a <h3> sized heading in the body.
+Make your heading say anything you want! 
+(Just don't forget to close it.)
+Create three paragraphs using <p> tags and fill them with content
+(e.g. about cars, your pet, favorite city to travel—whatever you like!)
